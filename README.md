@@ -19,3 +19,7 @@ Compiler le projet :
 ```bash
 make
 ```
+Exécuter avec une liste de nombres aléatoires :
+```bash
+./push_swap 4 67 3 87 23
+```
